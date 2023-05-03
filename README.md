@@ -77,6 +77,12 @@
  
           json-server is an npm(Node Package Manager) module, used for creating a mock REST API effortlessly. 
           Data is transferred in JSON(JavaScript Object Notation) format between client and server.
+          
+          
+  ![json_server](https://user-images.githubusercontent.com/78067017/235966255-ff0249ad-f6c4-4958-812a-266a9d2f2ba3.png)
+
+  
+  
  
  ## How To install Json-Server
  
