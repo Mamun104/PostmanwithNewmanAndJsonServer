@@ -40,7 +40,8 @@
 ## How To HTML Report Generate Using Newman
 
 - Step-1
-             npm i newman-reporter-htmlextra
+
+               npm i newman-reporter-htmlextra
 
 - Step-2 
 - Now create another file named report.js
